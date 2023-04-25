@@ -1,4 +1,11 @@
 import pandas as pd
+import numpy as np
+
+
+def bin_df(df, s='DataValue', q=5, labels=('very low', 'low', 'middle', 'high', 'very high')):
+    df['Category'] = pd.qcut(x=df[s], q=q, labels=list(labels))
+    return df
+
 
 cdi = pd.read_csv('CDI_with_pop_centers.csv')
 cdi = cdi[[
@@ -16,17 +23,34 @@ cdi = cdi[[
 cdi.rename(columns={'YearStart': 'Year'}, inplace=True)
 
 topics = cdi['Topic'].value_counts().index.to_list()
+bin_labels = [
+    'very low',
+    'low',
+    'middle',
+    'high',
+    'very high'
+]
+
 
 topic_dfs = [cdi[cdi['Topic'] == x] for x in topics]
-for df in topic_dfs:
-    bin_labels = [
-        'very low',
-        'low',
-        'middle',
-        'high',
-        'very high'
-    ]
-    name = pd.unique(df['Topic'])[0]
-    df['Category'] = pd.qcut(x=df['DataValue'], q=5, labels=bin_labels)
-    df.to_csv(f'./processed_csvs/{name.lower()}.csv', index=False)
+
+topic_dfs = [bin_df(df) for df in topic_dfs]
+
+cdi = pd.concat(topic_dfs)
+cdi = cdi[cdi['Category'].isin(['high', 'very high'])]
+
+cdi = cdi[[
+    'Year',
+    'LocationAbbr',
+    'LocationDesc',
+    'Topic',
+    'Latitude',
+    'Longitude',
+    'Centroid',
+    'Category'
+]]
+
+grouped = cdi.groupby(by=['LocationAbbr', 'Centroid'])['Topic'].apply(lambda x: list(np.unique(x)))
+grouped.to_frame().to_csv('processed_csvs/cdi_datasets.csv')
+
 #%%
