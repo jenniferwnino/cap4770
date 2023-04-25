@@ -1,0 +1,460 @@
+Year,LocationAbbr,LocationDesc,Topic,Question,DataValue,Latitude,Longitude,Centroid,Category
+2014,MS,Mississippi,Cancer,"Invasive cancer (all sites combined), mortality",6525.0,32.56642,-89.593164,"{""type"":""Point"", ""coordinates"":[-89.593164,32.56642]}",high
+2014,MS,Mississippi,Cancer,"Invasive cancer (all sites combined), mortality",218.4,32.56642,-89.593164,"{""type"":""Point"", ""coordinates"":[-89.593164,32.56642]}",high
+2015,MS,Mississippi,Cancer,"Invasive cancer (all sites combined), mortality",6535.0,32.56642,-89.593164,"{""type"":""Point"", ""coordinates"":[-89.593164,32.56642]}",very high
+2013,MS,Mississippi,Cancer,"Invasive cancer (all sites combined), mortality",190.2,32.56642,-89.593164,"{""type"":""Point"", ""coordinates"":[-89.593164,32.56642]}",middle
+2014,MS,Mississippi,Cancer,"Invasive cancer (all sites combined), mortality",186.7,32.56642,-89.593164,"{""type"":""Point"", ""coordinates"":[-89.593164,32.56642]}",middle
+2015,MS,Mississippi,Cancer,"Invasive cancer (all sites combined), mortality",183.8,32.56642,-89.593164,"{""type"":""Point"", ""coordinates"":[-89.593164,32.56642]}",middle
+2013,MS,Mississippi,Cancer,"Invasive cancer (all sites combined), mortality",218.4,32.56642,-89.593164,"{""type"":""Point"", ""coordinates"":[-89.593164,32.56642]}",high
+2015,MS,Mississippi,Cancer,"Invasive cancer (all sites combined), mortality",219.0,32.56642,-89.593164,"{""type"":""Point"", ""coordinates"":[-89.593164,32.56642]}",high
+2013,MS,Mississippi,Cancer,"Invasive cancer (all sites combined), mortality",6528.0,32.56642,-89.593164,"{""type"":""Point"", ""coordinates"":[-89.593164,32.56642]}",very high
+2014,MT,Montana,Cancer,"Invasive cancer (all sites combined), mortality",2082.0,46.813302,-111.209708,"{""type"":""Point"", ""coordinates"":[-111.209708,46.813302]}",high
+2015,MT,Montana,Cancer,"Invasive cancer (all sites combined), mortality",148.2,46.813302,-111.209708,"{""type"":""Point"", ""coordinates"":[-111.209708,46.813302]}",very low
+2013,MT,Montana,Cancer,"Invasive cancer (all sites combined), mortality",201.0,46.813302,-111.209708,"{""type"":""Point"", ""coordinates"":[-111.209708,46.813302]}",middle
+2013,MT,Montana,Cancer,"Invasive cancer (all sites combined), mortality",154.3,46.813302,-111.209708,"{""type"":""Point"", ""coordinates"":[-111.209708,46.813302]}",very low
+2014,MT,Montana,Cancer,"Invasive cancer (all sites combined), mortality",151.3,46.813302,-111.209708,"{""type"":""Point"", ""coordinates"":[-111.209708,46.813302]}",very low
+2015,MT,Montana,Cancer,"Invasive cancer (all sites combined), mortality",2089.0,46.813302,-111.209708,"{""type"":""Point"", ""coordinates"":[-111.209708,46.813302]}",high
+2014,MT,Montana,Cancer,"Invasive cancer (all sites combined), mortality",199.9,46.813302,-111.209708,"{""type"":""Point"", ""coordinates"":[-111.209708,46.813302]}",middle
+2015,MT,Montana,Cancer,"Invasive cancer (all sites combined), mortality",198.8,46.813302,-111.209708,"{""type"":""Point"", ""coordinates"":[-111.209708,46.813302]}",middle
+2013,MT,Montana,Cancer,"Invasive cancer (all sites combined), mortality",2074.0,46.813302,-111.209708,"{""type"":""Point"", ""coordinates"":[-111.209708,46.813302]}",high
+2015,WA,Washington,Cancer,"Invasive cancer (all sites combined), mortality",12739.0,47.341728,-121.624501,"{""type"":""Point"", ""coordinates"":[-121.624501,47.341728]}",very high
+2013,WA,Washington,Cancer,"Invasive cancer (all sites combined), mortality",12416.0,47.341728,-121.624501,"{""type"":""Point"", ""coordinates"":[-121.624501,47.341728]}",very high
+2014,WA,Washington,Cancer,"Invasive cancer (all sites combined), mortality",12588.0,47.341728,-121.624501,"{""type"":""Point"", ""coordinates"":[-121.624501,47.341728]}",very high
+2013,WA,Washington,Cancer,"Invasive cancer (all sites combined), mortality",172.9,47.341728,-121.624501,"{""type"":""Point"", ""coordinates"":[-121.624501,47.341728]}",low
+2014,WA,Washington,Cancer,"Invasive cancer (all sites combined), mortality",172.6,47.341728,-121.624501,"{""type"":""Point"", ""coordinates"":[-121.624501,47.341728]}",low
+2015,WA,Washington,Cancer,"Invasive cancer (all sites combined), mortality",149.4,47.341728,-121.624501,"{""type"":""Point"", ""coordinates"":[-121.624501,47.341728]}",very low
+2013,WA,Washington,Cancer,"Invasive cancer (all sites combined), mortality",154.4,47.341728,-121.624501,"{""type"":""Point"", ""coordinates"":[-121.624501,47.341728]}",very low
+2014,WA,Washington,Cancer,"Invasive cancer (all sites combined), mortality",152.0,47.341728,-121.624501,"{""type"":""Point"", ""coordinates"":[-121.624501,47.341728]}",very low
+2015,WA,Washington,Cancer,"Invasive cancer (all sites combined), mortality",172.1,47.341728,-121.624501,"{""type"":""Point"", ""coordinates"":[-121.624501,47.341728]}",low
+2013,TN,Tennessee,Cancer,"Invasive cancer (all sites combined), mortality",215.5,35.795862,-86.397772,"{""type"":""Point"", ""coordinates"":[-86.397772,35.795862]}",high
+2014,TN,Tennessee,Cancer,"Invasive cancer (all sites combined), mortality",177.4,35.795862,-86.397772,"{""type"":""Point"", ""coordinates"":[-86.397772,35.795862]}",low
+2015,TN,Tennessee,Cancer,"Invasive cancer (all sites combined), mortality",14298.0,35.795862,-86.397772,"{""type"":""Point"", ""coordinates"":[-86.397772,35.795862]}",very high
+2013,TN,Tennessee,Cancer,"Invasive cancer (all sites combined), mortality",181.0,35.795862,-86.397772,"{""type"":""Point"", ""coordinates"":[-86.397772,35.795862]}",middle
+2014,TN,Tennessee,Cancer,"Invasive cancer (all sites combined), mortality",214.3,35.795862,-86.397772,"{""type"":""Point"", ""coordinates"":[-86.397772,35.795862]}",middle
+2015,TN,Tennessee,Cancer,"Invasive cancer (all sites combined), mortality",213.1,35.795862,-86.397772,"{""type"":""Point"", ""coordinates"":[-86.397772,35.795862]}",middle
+2014,TN,Tennessee,Cancer,"Invasive cancer (all sites combined), mortality",14256.0,35.795862,-86.397772,"{""type"":""Point"", ""coordinates"":[-86.397772,35.795862]}",very high
+2015,TN,Tennessee,Cancer,"Invasive cancer (all sites combined), mortality",173.9,35.795862,-86.397772,"{""type"":""Point"", ""coordinates"":[-86.397772,35.795862]}",low
+2013,TN,Tennessee,Cancer,"Invasive cancer (all sites combined), mortality",14218.0,35.795862,-86.397772,"{""type"":""Point"", ""coordinates"":[-86.397772,35.795862]}",very high
+2015,LA,Louisiana,Cancer,"Invasive cancer (all sites combined), mortality",9385.0,30.69927,-91.457133,"{""type"":""Point"", ""coordinates"":[-91.457133,30.69927]}",very high
+2015,LA,Louisiana,Cancer,"Invasive cancer (all sites combined), mortality",201.2,30.69927,-91.457133,"{""type"":""Point"", ""coordinates"":[-91.457133,30.69927]}",middle
+2013,LA,Louisiana,Cancer,"Invasive cancer (all sites combined), mortality",9386.0,30.69927,-91.457133,"{""type"":""Point"", ""coordinates"":[-91.457133,30.69927]}",very high
+2014,LA,Louisiana,Cancer,"Invasive cancer (all sites combined), mortality",9379.0,30.69927,-91.457133,"{""type"":""Point"", ""coordinates"":[-91.457133,30.69927]}",very high
+2014,LA,Louisiana,Cancer,"Invasive cancer (all sites combined), mortality",176.1,30.69927,-91.457133,"{""type"":""Point"", ""coordinates"":[-91.457133,30.69927]}",low
+2013,LA,Louisiana,Cancer,"Invasive cancer (all sites combined), mortality",201.6,30.69927,-91.457133,"{""type"":""Point"", ""coordinates"":[-91.457133,30.69927]}",middle
+2015,LA,Louisiana,Cancer,"Invasive cancer (all sites combined), mortality",172.5,30.69927,-91.457133,"{""type"":""Point"", ""coordinates"":[-91.457133,30.69927]}",low
+2014,LA,Louisiana,Cancer,"Invasive cancer (all sites combined), mortality",201.1,30.69927,-91.457133,"{""type"":""Point"", ""coordinates"":[-91.457133,30.69927]}",middle
+2013,LA,Louisiana,Cancer,"Invasive cancer (all sites combined), mortality",180.0,30.69927,-91.457133,"{""type"":""Point"", ""coordinates"":[-91.457133,30.69927]}",middle
+2014,KS,Kansas,Cancer,"Invasive cancer (all sites combined), mortality",191.0,38.454303,-96.536052,"{""type"":""Point"", ""coordinates"":[-96.536052,38.454303]}",middle
+2013,KS,Kansas,Cancer,"Invasive cancer (all sites combined), mortality",162.2,38.454303,-96.536052,"{""type"":""Point"", ""coordinates"":[-96.536052,38.454303]}",low
+2015,KS,Kansas,Cancer,"Invasive cancer (all sites combined), mortality",158.3,38.454303,-96.536052,"{""type"":""Point"", ""coordinates"":[-96.536052,38.454303]}",low
+2013,KS,Kansas,Cancer,"Invasive cancer (all sites combined), mortality",189.7,38.454303,-96.536052,"{""type"":""Point"", ""coordinates"":[-96.536052,38.454303]}",middle
+2013,KS,Kansas,Cancer,"Invasive cancer (all sites combined), mortality",5509.0,38.454303,-96.536052,"{""type"":""Point"", ""coordinates"":[-96.536052,38.454303]}",high
+2015,KS,Kansas,Cancer,"Invasive cancer (all sites combined), mortality",191.1,38.454303,-96.536052,"{""type"":""Point"", ""coordinates"":[-96.536052,38.454303]}",middle
+2015,KS,Kansas,Cancer,"Invasive cancer (all sites combined), mortality",5561.0,38.454303,-96.536052,"{""type"":""Point"", ""coordinates"":[-96.536052,38.454303]}",high
+2014,KS,Kansas,Cancer,"Invasive cancer (all sites combined), mortality",5555.0,38.454303,-96.536052,"{""type"":""Point"", ""coordinates"":[-96.536052,38.454303]}",high
+2014,KS,Kansas,Cancer,"Invasive cancer (all sites combined), mortality",160.9,38.454303,-96.536052,"{""type"":""Point"", ""coordinates"":[-96.536052,38.454303]}",low
+2015,PA,Pennsylvania,Cancer,"Invasive cancer (all sites combined), mortality",160.2,40.463528,-77.075925,"{""type"":""Point"", ""coordinates"":[-77.075925,40.463528]}",low
+2014,PA,Pennsylvania,Cancer,"Invasive cancer (all sites combined), mortality",28456.0,40.463528,-77.075925,"{""type"":""Point"", ""coordinates"":[-77.075925,40.463528]}",very high
+2013,PA,Pennsylvania,Cancer,"Invasive cancer (all sites combined), mortality",223.4,40.463528,-77.075925,"{""type"":""Point"", ""coordinates"":[-77.075925,40.463528]}",high
+2014,PA,Pennsylvania,Cancer,"Invasive cancer (all sites combined), mortality",222.5,40.463528,-77.075925,"{""type"":""Point"", ""coordinates"":[-77.075925,40.463528]}",high
+2015,PA,Pennsylvania,Cancer,"Invasive cancer (all sites combined), mortality",221.0,40.463528,-77.075925,"{""type"":""Point"", ""coordinates"":[-77.075925,40.463528]}",high
+2013,PA,Pennsylvania,Cancer,"Invasive cancer (all sites combined), mortality",28554.0,40.463528,-77.075925,"{""type"":""Point"", ""coordinates"":[-77.075925,40.463528]}",very high
+2014,PA,Pennsylvania,Cancer,"Invasive cancer (all sites combined), mortality",163.5,40.463528,-77.075925,"{""type"":""Point"", ""coordinates"":[-77.075925,40.463528]}",low
+2013,PA,Pennsylvania,Cancer,"Invasive cancer (all sites combined), mortality",166.3,40.463528,-77.075925,"{""type"":""Point"", ""coordinates"":[-77.075925,40.463528]}",low
+2015,PA,Pennsylvania,Cancer,"Invasive cancer (all sites combined), mortality",28268.0,40.463528,-77.075925,"{""type"":""Point"", ""coordinates"":[-77.075925,40.463528]}",very high
+2015,ND,North Dakota,Cancer,"Invasive cancer (all sites combined), mortality",1298.0,47.375168,-99.334736,"{""type"":""Point"", ""coordinates"":[-99.334736,47.375168]}",high
+2014,ND,North Dakota,Cancer,"Invasive cancer (all sites combined), mortality",147.1,47.375168,-99.334736,"{""type"":""Point"", ""coordinates"":[-99.334736,47.375168]}",very low
+2013,ND,North Dakota,Cancer,"Invasive cancer (all sites combined), mortality",173.1,47.375168,-99.334736,"{""type"":""Point"", ""coordinates"":[-99.334736,47.375168]}",low
+2013,ND,North Dakota,Cancer,"Invasive cancer (all sites combined), mortality",1289.0,47.375168,-99.334736,"{""type"":""Point"", ""coordinates"":[-99.334736,47.375168]}",high
+2015,ND,North Dakota,Cancer,"Invasive cancer (all sites combined), mortality",171.5,47.375168,-99.334736,"{""type"":""Point"", ""coordinates"":[-99.334736,47.375168]}",low
+2013,ND,North Dakota,Cancer,"Invasive cancer (all sites combined), mortality",148.1,47.375168,-99.334736,"{""type"":""Point"", ""coordinates"":[-99.334736,47.375168]}",very low
+2014,ND,North Dakota,Cancer,"Invasive cancer (all sites combined), mortality",172.3,47.375168,-99.334736,"{""type"":""Point"", ""coordinates"":[-99.334736,47.375168]}",low
+2015,ND,North Dakota,Cancer,"Invasive cancer (all sites combined), mortality",144.7,47.375168,-99.334736,"{""type"":""Point"", ""coordinates"":[-99.334736,47.375168]}",very low
+2014,ND,North Dakota,Cancer,"Invasive cancer (all sites combined), mortality",1295.0,47.375168,-99.334736,"{""type"":""Point"", ""coordinates"":[-99.334736,47.375168]}",high
+2014,MN,Minnesota,Cancer,"Invasive cancer (all sites combined), mortality",178.2,45.210782,-93.583003,"{""type"":""Point"", ""coordinates"":[-93.583003,45.210782]}",middle
+2015,MN,Minnesota,Cancer,"Invasive cancer (all sites combined), mortality",147.0,45.210782,-93.583003,"{""type"":""Point"", ""coordinates"":[-93.583003,45.210782]}",very low
+2013,MN,Minnesota,Cancer,"Invasive cancer (all sites combined), mortality",178.3,45.210782,-93.583003,"{""type"":""Point"", ""coordinates"":[-93.583003,45.210782]}",middle
+2014,MN,Minnesota,Cancer,"Invasive cancer (all sites combined), mortality",9847.0,45.210782,-93.583003,"{""type"":""Point"", ""coordinates"":[-93.583003,45.210782]}",very high
+2013,MN,Minnesota,Cancer,"Invasive cancer (all sites combined), mortality",151.7,45.210782,-93.583003,"{""type"":""Point"", ""coordinates"":[-93.583003,45.210782]}",very low
+2015,MN,Minnesota,Cancer,"Invasive cancer (all sites combined), mortality",9926.0,45.210782,-93.583003,"{""type"":""Point"", ""coordinates"":[-93.583003,45.210782]}",very high
+2014,MN,Minnesota,Cancer,"Invasive cancer (all sites combined), mortality",149.2,45.210782,-93.583003,"{""type"":""Point"", ""coordinates"":[-93.583003,45.210782]}",very low
+2015,MN,Minnesota,Cancer,"Invasive cancer (all sites combined), mortality",178.4,45.210782,-93.583003,"{""type"":""Point"", ""coordinates"":[-93.583003,45.210782]}",middle
+2013,MN,Minnesota,Cancer,"Invasive cancer (all sites combined), mortality",9786.0,45.210782,-93.583003,"{""type"":""Point"", ""coordinates"":[-93.583003,45.210782]}",very high
+2015,ID,Idaho,Cancer,"Invasive cancer (all sites combined), mortality",149.7,44.242605,-115.133222,"{""type"":""Point"", ""coordinates"":[-115.133222,44.242605]}",very low
+2013,ID,Idaho,Cancer,"Invasive cancer (all sites combined), mortality",171.9,44.242605,-115.133222,"{""type"":""Point"", ""coordinates"":[-115.133222,44.242605]}",low
+2013,ID,Idaho,Cancer,"Invasive cancer (all sites combined), mortality",155.0,44.242605,-115.133222,"{""type"":""Point"", ""coordinates"":[-115.133222,44.242605]}",very low
+2014,ID,Idaho,Cancer,"Invasive cancer (all sites combined), mortality",153.5,44.242605,-115.133222,"{""type"":""Point"", ""coordinates"":[-115.133222,44.242605]}",very low
+2015,ID,Idaho,Cancer,"Invasive cancer (all sites combined), mortality",2946.0,44.242605,-115.133222,"{""type"":""Point"", ""coordinates"":[-115.133222,44.242605]}",high
+2014,ID,Idaho,Cancer,"Invasive cancer (all sites combined), mortality",173.1,44.242605,-115.133222,"{""type"":""Point"", ""coordinates"":[-115.133222,44.242605]}",low
+2015,ID,Idaho,Cancer,"Invasive cancer (all sites combined), mortality",171.5,44.242605,-115.133222,"{""type"":""Point"", ""coordinates"":[-115.133222,44.242605]}",low
+2013,ID,Idaho,Cancer,"Invasive cancer (all sites combined), mortality",2851.0,44.242605,-115.133222,"{""type"":""Point"", ""coordinates"":[-115.133222,44.242605]}",high
+2014,ID,Idaho,Cancer,"Invasive cancer (all sites combined), mortality",2919.0,44.242605,-115.133222,"{""type"":""Point"", ""coordinates"":[-115.133222,44.242605]}",high
+2014,MD,Maryland,Cancer,"Invasive cancer (all sites combined), mortality",155.1,39.145653,-76.797396,"{""type"":""Point"", ""coordinates"":[-76.797396,39.145653]}",very low
+2013,MD,Maryland,Cancer,"Invasive cancer (all sites combined), mortality",157.7,39.145653,-76.797396,"{""type"":""Point"", ""coordinates"":[-76.797396,39.145653]}",low
+2014,MD,Maryland,Cancer,"Invasive cancer (all sites combined), mortality",179.8,39.145653,-76.797396,"{""type"":""Point"", ""coordinates"":[-76.797396,39.145653]}",middle
+2015,MD,Maryland,Cancer,"Invasive cancer (all sites combined), mortality",10789.0,39.145653,-76.797396,"{""type"":""Point"", ""coordinates"":[-76.797396,39.145653]}",very high
+2014,MD,Maryland,Cancer,"Invasive cancer (all sites combined), mortality",10792.0,39.145653,-76.797396,"{""type"":""Point"", ""coordinates"":[-76.797396,39.145653]}",very high
+2015,MD,Maryland,Cancer,"Invasive cancer (all sites combined), mortality",179.2,39.145653,-76.797396,"{""type"":""Point"", ""coordinates"":[-76.797396,39.145653]}",middle
+2013,MD,Maryland,Cancer,"Invasive cancer (all sites combined), mortality",10728.0,39.145653,-76.797396,"{""type"":""Point"", ""coordinates"":[-76.797396,39.145653]}",very high
+2013,MD,Maryland,Cancer,"Invasive cancer (all sites combined), mortality",179.4,39.145653,-76.797396,"{""type"":""Point"", ""coordinates"":[-76.797396,39.145653]}",middle
+2015,MD,Maryland,Cancer,"Invasive cancer (all sites combined), mortality",151.5,39.145653,-76.797396,"{""type"":""Point"", ""coordinates"":[-76.797396,39.145653]}",very low
+2013,NY,New York,Cancer,"Invasive cancer (all sites combined), mortality",179.9,41.507548,-74.645228,"{""type"":""Point"", ""coordinates"":[-74.645228,41.507548]}",middle
+2014,NY,New York,Cancer,"Invasive cancer (all sites combined), mortality",178.7,41.507548,-74.645228,"{""type"":""Point"", ""coordinates"":[-74.645228,41.507548]}",middle
+2013,NY,New York,Cancer,"Invasive cancer (all sites combined), mortality",148.1,41.507548,-74.645228,"{""type"":""Point"", ""coordinates"":[-74.645228,41.507548]}",very low
+2014,NY,New York,Cancer,"Invasive cancer (all sites combined), mortality",35056.0,41.507548,-74.645228,"{""type"":""Point"", ""coordinates"":[-74.645228,41.507548]}",very high
+2015,NY,New York,Cancer,"Invasive cancer (all sites combined), mortality",34708.0,41.507548,-74.645228,"{""type"":""Point"", ""coordinates"":[-74.645228,41.507548]}",very high
+2013,NY,New York,Cancer,"Invasive cancer (all sites combined), mortality",35306.0,41.507548,-74.645228,"{""type"":""Point"", ""coordinates"":[-74.645228,41.507548]}",very high
+2015,NY,New York,Cancer,"Invasive cancer (all sites combined), mortality",177.3,41.507548,-74.645228,"{""type"":""Point"", ""coordinates"":[-74.645228,41.507548]}",low
+2014,NY,New York,Cancer,"Invasive cancer (all sites combined), mortality",144.7,41.507548,-74.645228,"{""type"":""Point"", ""coordinates"":[-74.645228,41.507548]}",very low
+2015,NY,New York,Cancer,"Invasive cancer (all sites combined), mortality",141.0,41.507548,-74.645228,"{""type"":""Point"", ""coordinates"":[-74.645228,41.507548]}",very low
+2015,TX,Texas,Cancer,"Invasive cancer (all sites combined), mortality",146.5,30.943149,-97.388631,"{""type"":""Point"", ""coordinates"":[-97.388631,30.943149]}",very low
+2015,TX,Texas,Cancer,"Invasive cancer (all sites combined), mortality",143.2,30.943149,-97.388631,"{""type"":""Point"", ""coordinates"":[-97.388631,30.943149]}",very low
+2014,TX,Texas,Cancer,"Invasive cancer (all sites combined), mortality",149.0,30.943149,-97.388631,"{""type"":""Point"", ""coordinates"":[-97.388631,30.943149]}",very low
+2013,TX,Texas,Cancer,"Invasive cancer (all sites combined), mortality",151.8,30.943149,-97.388631,"{""type"":""Point"", ""coordinates"":[-97.388631,30.943149]}",very low
+2013,TX,Texas,Cancer,"Invasive cancer (all sites combined), mortality",143.8,30.943149,-97.388631,"{""type"":""Point"", ""coordinates"":[-97.388631,30.943149]}",very low
+2015,TX,Texas,Cancer,"Invasive cancer (all sites combined), mortality",40467.0,30.943149,-97.388631,"{""type"":""Point"", ""coordinates"":[-97.388631,30.943149]}",very high
+2014,TX,Texas,Cancer,"Invasive cancer (all sites combined), mortality",39939.0,30.943149,-97.388631,"{""type"":""Point"", ""coordinates"":[-97.388631,30.943149]}",very high
+2013,TX,Texas,Cancer,"Invasive cancer (all sites combined), mortality",39448.0,30.943149,-97.388631,"{""type"":""Point"", ""coordinates"":[-97.388631,30.943149]}",very high
+2014,TX,Texas,Cancer,"Invasive cancer (all sites combined), mortality",143.4,30.943149,-97.388631,"{""type"":""Point"", ""coordinates"":[-97.388631,30.943149]}",very low
+2015,NV,Nevada,Cancer,"Invasive cancer (all sites combined), mortality",175.9,37.165965,-116.304648,"{""type"":""Point"", ""coordinates"":[-116.304648,37.165965]}",low
+2014,NV,Nevada,Cancer,"Invasive cancer (all sites combined), mortality",157.2,37.165965,-116.304648,"{""type"":""Point"", ""coordinates"":[-116.304648,37.165965]}",very low
+2013,NV,Nevada,Cancer,"Invasive cancer (all sites combined), mortality",5068.0,37.165965,-116.304648,"{""type"":""Point"", ""coordinates"":[-116.304648,37.165965]}",high
+2015,NV,Nevada,Cancer,"Invasive cancer (all sites combined), mortality",5228.0,37.165965,-116.304648,"{""type"":""Point"", ""coordinates"":[-116.304648,37.165965]}",high
+2013,NV,Nevada,Cancer,"Invasive cancer (all sites combined), mortality",161.1,37.165965,-116.304648,"{""type"":""Point"", ""coordinates"":[-116.304648,37.165965]}",low
+2014,NV,Nevada,Cancer,"Invasive cancer (all sites combined), mortality",5144.0,37.165965,-116.304648,"{""type"":""Point"", ""coordinates"":[-116.304648,37.165965]}",high
+2015,NV,Nevada,Cancer,"Invasive cancer (all sites combined), mortality",153.9,37.165965,-116.304648,"{""type"":""Point"", ""coordinates"":[-116.304648,37.165965]}",very low
+2014,NV,Nevada,Cancer,"Invasive cancer (all sites combined), mortality",176.2,37.165965,-116.304648,"{""type"":""Point"", ""coordinates"":[-116.304648,37.165965]}",low
+2013,NV,Nevada,Cancer,"Invasive cancer (all sites combined), mortality",176.6,37.165965,-116.304648,"{""type"":""Point"", ""coordinates"":[-116.304648,37.165965]}",low
+2013,SC,South Carolina,Cancer,"Invasive cancer (all sites combined), mortality",168.5,34.034551,-81.032387,"{""type"":""Point"", ""coordinates"":[-81.032387,34.034551]}",low
+2015,SC,South Carolina,Cancer,"Invasive cancer (all sites combined), mortality",161.5,34.034551,-81.032387,"{""type"":""Point"", ""coordinates"":[-81.032387,34.034551]}",low
+2014,SC,South Carolina,Cancer,"Invasive cancer (all sites combined), mortality",10191.0,34.034551,-81.032387,"{""type"":""Point"", ""coordinates"":[-81.032387,34.034551]}",very high
+2015,SC,South Carolina,Cancer,"Invasive cancer (all sites combined), mortality",205.2,34.034551,-81.032387,"{""type"":""Point"", ""coordinates"":[-81.032387,34.034551]}",middle
+2013,SC,South Carolina,Cancer,"Invasive cancer (all sites combined), mortality",10067.0,34.034551,-81.032387,"{""type"":""Point"", ""coordinates"":[-81.032387,34.034551]}",very high
+2014,SC,South Carolina,Cancer,"Invasive cancer (all sites combined), mortality",205.6,34.034551,-81.032387,"{""type"":""Point"", ""coordinates"":[-81.032387,34.034551]}",middle
+2015,SC,South Carolina,Cancer,"Invasive cancer (all sites combined), mortality",10303.0,34.034551,-81.032387,"{""type"":""Point"", ""coordinates"":[-81.032387,34.034551]}",very high
+2013,SC,South Carolina,Cancer,"Invasive cancer (all sites combined), mortality",205.8,34.034551,-81.032387,"{""type"":""Point"", ""coordinates"":[-81.032387,34.034551]}",middle
+2014,SC,South Carolina,Cancer,"Invasive cancer (all sites combined), mortality",165.2,34.034551,-81.032387,"{""type"":""Point"", ""coordinates"":[-81.032387,34.034551]}",low
+2014,VT,Vermont,Cancer,"Invasive cancer (all sites combined), mortality",1391.0,44.081127,-72.814309,"{""type"":""Point"", ""coordinates"":[-72.814309,44.081127]}",high
+2015,VT,Vermont,Cancer,"Invasive cancer (all sites combined), mortality",159.0,44.081127,-72.814309,"{""type"":""Point"", ""coordinates"":[-72.814309,44.081127]}",low
+2013,VT,Vermont,Cancer,"Invasive cancer (all sites combined), mortality",1377.0,44.081127,-72.814309,"{""type"":""Point"", ""coordinates"":[-72.814309,44.081127]}",high
+2015,VT,Vermont,Cancer,"Invasive cancer (all sites combined), mortality",1391.0,44.081127,-72.814309,"{""type"":""Point"", ""coordinates"":[-72.814309,44.081127]}",high
+2013,VT,Vermont,Cancer,"Invasive cancer (all sites combined), mortality",220.4,44.081127,-72.814309,"{""type"":""Point"", ""coordinates"":[-72.814309,44.081127]}",high
+2014,VT,Vermont,Cancer,"Invasive cancer (all sites combined), mortality",162.9,44.081127,-72.814309,"{""type"":""Point"", ""coordinates"":[-72.814309,44.081127]}",low
+2013,VT,Vermont,Cancer,"Invasive cancer (all sites combined), mortality",164.7,44.081127,-72.814309,"{""type"":""Point"", ""coordinates"":[-72.814309,44.081127]}",low
+2015,VT,Vermont,Cancer,"Invasive cancer (all sites combined), mortality",222.8,44.081127,-72.814309,"{""type"":""Point"", ""coordinates"":[-72.814309,44.081127]}",high
+2014,VT,Vermont,Cancer,"Invasive cancer (all sites combined), mortality",222.7,44.081127,-72.814309,"{""type"":""Point"", ""coordinates"":[-72.814309,44.081127]}",high
+2013,WI,Wisconsin,Cancer,"Invasive cancer (all sites combined), mortality",11411.0,43.728544,-89.001006,"{""type"":""Point"", ""coordinates"":[-89.001006,43.728544]}",very high
+2014,WI,Wisconsin,Cancer,"Invasive cancer (all sites combined), mortality",11418.0,43.728544,-89.001006,"{""type"":""Point"", ""coordinates"":[-89.001006,43.728544]}",very high
+2015,WI,Wisconsin,Cancer,"Invasive cancer (all sites combined), mortality",154.7,43.728544,-89.001006,"{""type"":""Point"", ""coordinates"":[-89.001006,43.728544]}",very low
+2014,WI,Wisconsin,Cancer,"Invasive cancer (all sites combined), mortality",197.7,43.728544,-89.001006,"{""type"":""Point"", ""coordinates"":[-89.001006,43.728544]}",middle
+2013,WI,Wisconsin,Cancer,"Invasive cancer (all sites combined), mortality",160.1,43.728544,-89.001006,"{""type"":""Point"", ""coordinates"":[-89.001006,43.728544]}",low
+2015,WI,Wisconsin,Cancer,"Invasive cancer (all sites combined), mortality",197.6,43.728544,-89.001006,"{""type"":""Point"", ""coordinates"":[-89.001006,43.728544]}",middle
+2014,WI,Wisconsin,Cancer,"Invasive cancer (all sites combined), mortality",157.4,43.728544,-89.001006,"{""type"":""Point"", ""coordinates"":[-89.001006,43.728544]}",low
+2015,WI,Wisconsin,Cancer,"Invasive cancer (all sites combined), mortality",11440.0,43.728544,-89.001006,"{""type"":""Point"", ""coordinates"":[-89.001006,43.728544]}",very high
+2013,WI,Wisconsin,Cancer,"Invasive cancer (all sites combined), mortality",198.0,43.728544,-89.001006,"{""type"":""Point"", ""coordinates"":[-89.001006,43.728544]}",middle
+2015,IN,Indiana,Cancer,"Invasive cancer (all sites combined), mortality",202.2,40.163935,-86.261515,"{""type"":""Point"", ""coordinates"":[-86.261515,40.163935]}",middle
+2013,IN,Indiana,Cancer,"Invasive cancer (all sites combined), mortality",13435.0,40.163935,-86.261515,"{""type"":""Point"", ""coordinates"":[-86.261515,40.163935]}",very high
+2014,IN,Indiana,Cancer,"Invasive cancer (all sites combined), mortality",203.1,40.163935,-86.261515,"{""type"":""Point"", ""coordinates"":[-86.261515,40.163935]}",middle
+2013,IN,Indiana,Cancer,"Invasive cancer (all sites combined), mortality",203.2,40.163935,-86.261515,"{""type"":""Point"", ""coordinates"":[-86.261515,40.163935]}",middle
+2015,IN,Indiana,Cancer,"Invasive cancer (all sites combined), mortality",169.6,40.163935,-86.261515,"{""type"":""Point"", ""coordinates"":[-86.261515,40.163935]}",low
+2014,IN,Indiana,Cancer,"Invasive cancer (all sites combined), mortality",13479.0,40.163935,-86.261515,"{""type"":""Point"", ""coordinates"":[-86.261515,40.163935]}",very high
+2014,IN,Indiana,Cancer,"Invasive cancer (all sites combined), mortality",173.0,40.163935,-86.261515,"{""type"":""Point"", ""coordinates"":[-86.261515,40.163935]}",low
+2013,IN,Indiana,Cancer,"Invasive cancer (all sites combined), mortality",175.7,40.163935,-86.261515,"{""type"":""Point"", ""coordinates"":[-86.261515,40.163935]}",low
+2015,IN,Indiana,Cancer,"Invasive cancer (all sites combined), mortality",13478.0,40.163935,-86.261515,"{""type"":""Point"", ""coordinates"":[-86.261515,40.163935]}",very high
+2014,AK,Alaska,Cancer,"Invasive cancer (all sites combined), mortality",966.0,61.288254,-148.716968,"{""type"":""Point"", ""coordinates"":[-148.716968,61.288254]}",high
+2013,AK,Alaska,Cancer,"Invasive cancer (all sites combined), mortality",977.0,61.288254,-148.716968,"{""type"":""Point"", ""coordinates"":[-148.716968,61.288254]}",high
+2015,AK,Alaska,Cancer,"Invasive cancer (all sites combined), mortality",132.3,61.288254,-148.716968,"{""type"":""Point"", ""coordinates"":[-148.716968,61.288254]}",very low
+2015,AK,Alaska,Cancer,"Invasive cancer (all sites combined), mortality",149.6,61.288254,-148.716968,"{""type"":""Point"", ""coordinates"":[-148.716968,61.288254]}",very low
+2013,AK,Alaska,Cancer,"Invasive cancer (all sites combined), mortality",158.9,61.288254,-148.716968,"{""type"":""Point"", ""coordinates"":[-148.716968,61.288254]}",low
+2013,AK,Alaska,Cancer,"Invasive cancer (all sites combined), mortality",132.4,61.288254,-148.716968,"{""type"":""Point"", ""coordinates"":[-148.716968,61.288254]}",very low
+2014,AK,Alaska,Cancer,"Invasive cancer (all sites combined), mortality",130.8,61.288254,-148.716968,"{""type"":""Point"", ""coordinates"":[-148.716968,61.288254]}",very low
+2015,AK,Alaska,Cancer,"Invasive cancer (all sites combined), mortality",975.0,61.288254,-148.716968,"{""type"":""Point"", ""coordinates"":[-148.716968,61.288254]}",high
+2014,AK,Alaska,Cancer,"Invasive cancer (all sites combined), mortality",152.7,61.288254,-148.716968,"{""type"":""Point"", ""coordinates"":[-148.716968,61.288254]}",very low
+2013,NC,North Carolina,Cancer,"Invasive cancer (all sites combined), mortality",164.3,35.553334,-79.667654,"{""type"":""Point"", ""coordinates"":[-79.667654,35.553334]}",low
+2015,NC,North Carolina,Cancer,"Invasive cancer (all sites combined), mortality",157.9,35.553334,-79.667654,"{""type"":""Point"", ""coordinates"":[-79.667654,35.553334]}",low
+2013,NC,North Carolina,Cancer,"Invasive cancer (all sites combined), mortality",191.6,35.553334,-79.667654,"{""type"":""Point"", ""coordinates"":[-79.667654,35.553334]}",middle
+2014,NC,North Carolina,Cancer,"Invasive cancer (all sites combined), mortality",19466.0,35.553334,-79.667654,"{""type"":""Point"", ""coordinates"":[-79.667654,35.553334]}",very high
+2013,NC,North Carolina,Cancer,"Invasive cancer (all sites combined), mortality",19250.0,35.553334,-79.667654,"{""type"":""Point"", ""coordinates"":[-79.667654,35.553334]}",very high
+2015,NC,North Carolina,Cancer,"Invasive cancer (all sites combined), mortality",190.8,35.553334,-79.667654,"{""type"":""Point"", ""coordinates"":[-79.667654,35.553334]}",middle
+2014,NC,North Carolina,Cancer,"Invasive cancer (all sites combined), mortality",191.7,35.553334,-79.667654,"{""type"":""Point"", ""coordinates"":[-79.667654,35.553334]}",middle
+2015,NC,North Carolina,Cancer,"Invasive cancer (all sites combined), mortality",19588.0,35.553334,-79.667654,"{""type"":""Point"", ""coordinates"":[-79.667654,35.553334]}",very high
+2014,NC,North Carolina,Cancer,"Invasive cancer (all sites combined), mortality",161.5,35.553334,-79.667654,"{""type"":""Point"", ""coordinates"":[-79.667654,35.553334]}",low
+2015,RI,Rhode Island,Cancer,"Invasive cancer (all sites combined), mortality",206.9,41.753318,-71.448902,"{""type"":""Point"", ""coordinates"":[-71.448902,41.753318]}",middle
+2013,RI,Rhode Island,Cancer,"Invasive cancer (all sites combined), mortality",2224.0,41.753318,-71.448902,"{""type"":""Point"", ""coordinates"":[-71.448902,41.753318]}",high
+2013,RI,Rhode Island,Cancer,"Invasive cancer (all sites combined), mortality",163.1,41.753318,-71.448902,"{""type"":""Point"", ""coordinates"":[-71.448902,41.753318]}",low
+2015,RI,Rhode Island,Cancer,"Invasive cancer (all sites combined), mortality",156.2,41.753318,-71.448902,"{""type"":""Point"", ""coordinates"":[-71.448902,41.753318]}",very low
+2014,RI,Rhode Island,Cancer,"Invasive cancer (all sites combined), mortality",158.8,41.753318,-71.448902,"{""type"":""Point"", ""coordinates"":[-71.448902,41.753318]}",low
+2014,RI,Rhode Island,Cancer,"Invasive cancer (all sites combined), mortality",207.6,41.753318,-71.448902,"{""type"":""Point"", ""coordinates"":[-71.448902,41.753318]}",middle
+2015,RI,Rhode Island,Cancer,"Invasive cancer (all sites combined), mortality",2187.0,41.753318,-71.448902,"{""type"":""Point"", ""coordinates"":[-71.448902,41.753318]}",high
+2013,RI,Rhode Island,Cancer,"Invasive cancer (all sites combined), mortality",210.6,41.753318,-71.448902,"{""type"":""Point"", ""coordinates"":[-71.448902,41.753318]}",middle
+2014,RI,Rhode Island,Cancer,"Invasive cancer (all sites combined), mortality",2194.0,41.753318,-71.448902,"{""type"":""Point"", ""coordinates"":[-71.448902,41.753318]}",high
+2015,MI,Michigan,Cancer,"Invasive cancer (all sites combined), mortality",209.2,42.866412,-84.170753,"{""type"":""Point"", ""coordinates"":[-84.170753,42.866412]}",middle
+2013,MI,Michigan,Cancer,"Invasive cancer (all sites combined), mortality",20762.0,42.866412,-84.170753,"{""type"":""Point"", ""coordinates"":[-84.170753,42.866412]}",very high
+2014,MI,Michigan,Cancer,"Invasive cancer (all sites combined), mortality",166.0,42.866412,-84.170753,"{""type"":""Point"", ""coordinates"":[-84.170753,42.866412]}",low
+2015,MI,Michigan,Cancer,"Invasive cancer (all sites combined), mortality",20843.0,42.866412,-84.170753,"{""type"":""Point"", ""coordinates"":[-84.170753,42.866412]}",very high
+2014,MI,Michigan,Cancer,"Invasive cancer (all sites combined), mortality",20892.0,42.866412,-84.170753,"{""type"":""Point"", ""coordinates"":[-84.170753,42.866412]}",very high
+2013,MI,Michigan,Cancer,"Invasive cancer (all sites combined), mortality",167.8,42.866412,-84.170753,"{""type"":""Point"", ""coordinates"":[-84.170753,42.866412]}",low
+2015,MI,Michigan,Cancer,"Invasive cancer (all sites combined), mortality",162.7,42.866412,-84.170753,"{""type"":""Point"", ""coordinates"":[-84.170753,42.866412]}",low
+2013,MI,Michigan,Cancer,"Invasive cancer (all sites combined), mortality",208.9,42.866412,-84.170753,"{""type"":""Point"", ""coordinates"":[-84.170753,42.866412]}",middle
+2014,MI,Michigan,Cancer,"Invasive cancer (all sites combined), mortality",209.9,42.866412,-84.170753,"{""type"":""Point"", ""coordinates"":[-84.170753,42.866412]}",middle
+2013,IA,Iowa,Cancer,"Invasive cancer (all sites combined), mortality",207.8,41.960392,-93.049161,"{""type"":""Point"", ""coordinates"":[-93.049161,41.960392]}",middle
+2015,IA,Iowa,Cancer,"Invasive cancer (all sites combined), mortality",157.7,41.960392,-93.049161,"{""type"":""Point"", ""coordinates"":[-93.049161,41.960392]}",low
+2014,IA,Iowa,Cancer,"Invasive cancer (all sites combined), mortality",160.9,41.960392,-93.049161,"{""type"":""Point"", ""coordinates"":[-93.049161,41.960392]}",low
+2013,IA,Iowa,Cancer,"Invasive cancer (all sites combined), mortality",163.5,41.960392,-93.049161,"{""type"":""Point"", ""coordinates"":[-93.049161,41.960392]}",low
+2014,IA,Iowa,Cancer,"Invasive cancer (all sites combined), mortality",206.5,41.960392,-93.049161,"{""type"":""Point"", ""coordinates"":[-93.049161,41.960392]}",middle
+2015,IA,Iowa,Cancer,"Invasive cancer (all sites combined), mortality",6431.0,41.960392,-93.049161,"{""type"":""Point"", ""coordinates"":[-93.049161,41.960392]}",high
+2014,IA,Iowa,Cancer,"Invasive cancer (all sites combined), mortality",6465.0,41.960392,-93.049161,"{""type"":""Point"", ""coordinates"":[-93.049161,41.960392]}",high
+2015,IA,Iowa,Cancer,"Invasive cancer (all sites combined), mortality",204.8,41.960392,-93.049161,"{""type"":""Point"", ""coordinates"":[-93.049161,41.960392]}",middle
+2013,IA,Iowa,Cancer,"Invasive cancer (all sites combined), mortality",6481.0,41.960392,-93.049161,"{""type"":""Point"", ""coordinates"":[-93.049161,41.960392]}",high
+2014,NM,New Mexico,Cancer,"Invasive cancer (all sites combined), mortality",140.3,34.623012,-106.342108,"{""type"":""Point"", ""coordinates"":[-106.342108,34.623012]}",very low
+2015,NM,New Mexico,Cancer,"Invasive cancer (all sites combined), mortality",172.6,34.623012,-106.342108,"{""type"":""Point"", ""coordinates"":[-106.342108,34.623012]}",low
+2013,NM,New Mexico,Cancer,"Invasive cancer (all sites combined), mortality",3546.0,34.623012,-106.342108,"{""type"":""Point"", ""coordinates"":[-106.342108,34.623012]}",high
+2015,NM,New Mexico,Cancer,"Invasive cancer (all sites combined), mortality",3611.0,34.623012,-106.342108,"{""type"":""Point"", ""coordinates"":[-106.342108,34.623012]}",high
+2014,NM,New Mexico,Cancer,"Invasive cancer (all sites combined), mortality",3584.0,34.623012,-106.342108,"{""type"":""Point"", ""coordinates"":[-106.342108,34.623012]}",high
+2013,NM,New Mexico,Cancer,"Invasive cancer (all sites combined), mortality",142.0,34.623012,-106.342108,"{""type"":""Point"", ""coordinates"":[-106.342108,34.623012]}",very low
+2014,NM,New Mexico,Cancer,"Invasive cancer (all sites combined), mortality",171.4,34.623012,-106.342108,"{""type"":""Point"", ""coordinates"":[-106.342108,34.623012]}",low
+2015,NM,New Mexico,Cancer,"Invasive cancer (all sites combined), mortality",138.0,34.623012,-106.342108,"{""type"":""Point"", ""coordinates"":[-106.342108,34.623012]}",very low
+2013,NM,New Mexico,Cancer,"Invasive cancer (all sites combined), mortality",169.6,34.623012,-106.342108,"{""type"":""Point"", ""coordinates"":[-106.342108,34.623012]}",low
+2014,IL,Illinois,Cancer,"Invasive cancer (all sites combined), mortality",161.8,41.278216,-88.380238,"{""type"":""Point"", ""coordinates"":[-88.380238,41.278216]}",low
+2015,IL,Illinois,Cancer,"Invasive cancer (all sites combined), mortality",24208.0,41.278216,-88.380238,"{""type"":""Point"", ""coordinates"":[-88.380238,41.278216]}",very high
+2013,IL,Illinois,Cancer,"Invasive cancer (all sites combined), mortality",165.3,41.278216,-88.380238,"{""type"":""Point"", ""coordinates"":[-88.380238,41.278216]}",low
+2014,IL,Illinois,Cancer,"Invasive cancer (all sites combined), mortality",24328.0,41.278216,-88.380238,"{""type"":""Point"", ""coordinates"":[-88.380238,41.278216]}",very high
+2015,IL,Illinois,Cancer,"Invasive cancer (all sites combined), mortality",158.5,41.278216,-88.380238,"{""type"":""Point"", ""coordinates"":[-88.380238,41.278216]}",low
+2013,IL,Illinois,Cancer,"Invasive cancer (all sites combined), mortality",190.3,41.278216,-88.380238,"{""type"":""Point"", ""coordinates"":[-88.380238,41.278216]}",middle
+2014,IL,Illinois,Cancer,"Invasive cancer (all sites combined), mortality",189.9,41.278216,-88.380238,"{""type"":""Point"", ""coordinates"":[-88.380238,41.278216]}",middle
+2015,IL,Illinois,Cancer,"Invasive cancer (all sites combined), mortality",189.6,41.278216,-88.380238,"{""type"":""Point"", ""coordinates"":[-88.380238,41.278216]}",middle
+2013,IL,Illinois,Cancer,"Invasive cancer (all sites combined), mortality",24449.0,41.278216,-88.380238,"{""type"":""Point"", ""coordinates"":[-88.380238,41.278216]}",very high
+2015,WV,West Virginia,Cancer,"Invasive cancer (all sites combined), mortality",257.9,38.767195,-80.820221,"{""type"":""Point"", ""coordinates"":[-80.820221,38.767195]}",high
+2013,WV,West Virginia,Cancer,"Invasive cancer (all sites combined), mortality",186.7,38.767195,-80.820221,"{""type"":""Point"", ""coordinates"":[-80.820221,38.767195]}",middle
+2014,WV,West Virginia,Cancer,"Invasive cancer (all sites combined), mortality",184.2,38.767195,-80.820221,"{""type"":""Point"", ""coordinates"":[-80.820221,38.767195]}",middle
+2015,WV,West Virginia,Cancer,"Invasive cancer (all sites combined), mortality",180.2,38.767195,-80.820221,"{""type"":""Point"", ""coordinates"":[-80.820221,38.767195]}",middle
+2014,WV,West Virginia,Cancer,"Invasive cancer (all sites combined), mortality",259.3,38.767195,-80.820221,"{""type"":""Point"", ""coordinates"":[-80.820221,38.767195]}",high
+2013,WV,West Virginia,Cancer,"Invasive cancer (all sites combined), mortality",4750.0,38.767195,-80.820221,"{""type"":""Point"", ""coordinates"":[-80.820221,38.767195]}",high
+2014,WV,West Virginia,Cancer,"Invasive cancer (all sites combined), mortality",4743.0,38.767195,-80.820221,"{""type"":""Point"", ""coordinates"":[-80.820221,38.767195]}",high
+2015,WV,West Virginia,Cancer,"Invasive cancer (all sites combined), mortality",4688.0,38.767195,-80.820221,"{""type"":""Point"", ""coordinates"":[-80.820221,38.767195]}",high
+2013,WV,West Virginia,Cancer,"Invasive cancer (all sites combined), mortality",258.3,38.767195,-80.820221,"{""type"":""Point"", ""coordinates"":[-80.820221,38.767195]}",high
+2015,CO,Colorado,Cancer,"Invasive cancer (all sites combined), mortality",7832.0,39.500656,-105.203628,"{""type"":""Point"", ""coordinates"":[-105.203628,39.500656]}",very high
+2014,CO,Colorado,Cancer,"Invasive cancer (all sites combined), mortality",139.6,39.500656,-105.203628,"{""type"":""Point"", ""coordinates"":[-105.203628,39.500656]}",very low
+2013,CO,Colorado,Cancer,"Invasive cancer (all sites combined), mortality",136.2,39.500656,-105.203628,"{""type"":""Point"", ""coordinates"":[-105.203628,39.500656]}",very low
+2013,CO,Colorado,Cancer,"Invasive cancer (all sites combined), mortality",7625.0,39.500656,-105.203628,"{""type"":""Point"", ""coordinates"":[-105.203628,39.500656]}",very high
+2015,CO,Colorado,Cancer,"Invasive cancer (all sites combined), mortality",139.6,39.500656,-105.203628,"{""type"":""Point"", ""coordinates"":[-105.203628,39.500656]}",very low
+2015,CO,Colorado,Cancer,"Invasive cancer (all sites combined), mortality",131.6,39.500656,-105.203628,"{""type"":""Point"", ""coordinates"":[-105.203628,39.500656]}",very low
+2013,CO,Colorado,Cancer,"Invasive cancer (all sites combined), mortality",140.1,39.500656,-105.203628,"{""type"":""Point"", ""coordinates"":[-105.203628,39.500656]}",very low
+2014,CO,Colorado,Cancer,"Invasive cancer (all sites combined), mortality",133.9,39.500656,-105.203628,"{""type"":""Point"", ""coordinates"":[-105.203628,39.500656]}",very low
+2014,CO,Colorado,Cancer,"Invasive cancer (all sites combined), mortality",7716.0,39.500656,-105.203628,"{""type"":""Point"", ""coordinates"":[-105.203628,39.500656]}",very high
+2015,DE,Delaware,Cancer,"Invasive cancer (all sites combined), mortality",2079.0,39.397164,-75.561908,"{""type"":""Point"", ""coordinates"":[-75.561908,39.397164]}",high
+2013,DE,Delaware,Cancer,"Invasive cancer (all sites combined), mortality",2019.0,39.397164,-75.561908,"{""type"":""Point"", ""coordinates"":[-75.561908,39.397164]}",high
+2014,DE,Delaware,Cancer,"Invasive cancer (all sites combined), mortality",164.7,39.397164,-75.561908,"{""type"":""Point"", ""coordinates"":[-75.561908,39.397164]}",low
+2014,DE,Delaware,Cancer,"Invasive cancer (all sites combined), mortality",2058.0,39.397164,-75.561908,"{""type"":""Point"", ""coordinates"":[-75.561908,39.397164]}",high
+2013,DE,Delaware,Cancer,"Invasive cancer (all sites combined), mortality",214.7,39.397164,-75.561908,"{""type"":""Point"", ""coordinates"":[-75.561908,39.397164]}",high
+2015,DE,Delaware,Cancer,"Invasive cancer (all sites combined), mortality",161.5,39.397164,-75.561908,"{""type"":""Point"", ""coordinates"":[-75.561908,39.397164]}",low
+2014,DE,Delaware,Cancer,"Invasive cancer (all sites combined), mortality",216.9,39.397164,-75.561908,"{""type"":""Point"", ""coordinates"":[-75.561908,39.397164]}",high
+2015,DE,Delaware,Cancer,"Invasive cancer (all sites combined), mortality",217.1,39.397164,-75.561908,"{""type"":""Point"", ""coordinates"":[-75.561908,39.397164]}",high
+2013,DE,Delaware,Cancer,"Invasive cancer (all sites combined), mortality",166.6,39.397164,-75.561908,"{""type"":""Point"", ""coordinates"":[-75.561908,39.397164]}",low
+2015,MO,Missouri,Cancer,"Invasive cancer (all sites combined), mortality",12909.0,38.437715,-92.15377,"{""type"":""Point"", ""coordinates"":[-92.15377,38.437715]}",very high
+2014,MO,Missouri,Cancer,"Invasive cancer (all sites combined), mortality",12948.0,38.437715,-92.15377,"{""type"":""Point"", ""coordinates"":[-92.15377,38.437715]}",very high
+2013,MO,Missouri,Cancer,"Invasive cancer (all sites combined), mortality",172.6,38.437715,-92.15377,"{""type"":""Point"", ""coordinates"":[-92.15377,38.437715]}",low
+2014,MO,Missouri,Cancer,"Invasive cancer (all sites combined), mortality",212.7,38.437715,-92.15377,"{""type"":""Point"", ""coordinates"":[-92.15377,38.437715]}",middle
+2013,MO,Missouri,Cancer,"Invasive cancer (all sites combined), mortality",12931.0,38.437715,-92.15377,"{""type"":""Point"", ""coordinates"":[-92.15377,38.437715]}",very high
+2013,MO,Missouri,Cancer,"Invasive cancer (all sites combined), mortality",212.9,38.437715,-92.15377,"{""type"":""Point"", ""coordinates"":[-92.15377,38.437715]}",middle
+2015,MO,Missouri,Cancer,"Invasive cancer (all sites combined), mortality",166.3,38.437715,-92.15377,"{""type"":""Point"", ""coordinates"":[-92.15377,38.437715]}",low
+2014,MO,Missouri,Cancer,"Invasive cancer (all sites combined), mortality",169.8,38.437715,-92.15377,"{""type"":""Point"", ""coordinates"":[-92.15377,38.437715]}",low
+2015,MO,Missouri,Cancer,"Invasive cancer (all sites combined), mortality",211.5,38.437715,-92.15377,"{""type"":""Point"", ""coordinates"":[-92.15377,38.437715]}",middle
+2014,KY,Kentucky,Cancer,"Invasive cancer (all sites combined), mortality",230.8,37.808159,-85.241819,"{""type"":""Point"", ""coordinates"":[-85.241819,37.808159]}",high
+2013,KY,Kentucky,Cancer,"Invasive cancer (all sites combined), mortality",194.8,37.808159,-85.241819,"{""type"":""Point"", ""coordinates"":[-85.241819,37.808159]}",middle
+2015,KY,Kentucky,Cancer,"Invasive cancer (all sites combined), mortality",186.6,37.808159,-85.241819,"{""type"":""Point"", ""coordinates"":[-85.241819,37.808159]}",middle
+2013,KY,Kentucky,Cancer,"Invasive cancer (all sites combined), mortality",231.1,37.808159,-85.241819,"{""type"":""Point"", ""coordinates"":[-85.241819,37.808159]}",high
+2015,KY,Kentucky,Cancer,"Invasive cancer (all sites combined), mortality",228.9,37.808159,-85.241819,"{""type"":""Point"", ""coordinates"":[-85.241819,37.808159]}",high
+2013,KY,Kentucky,Cancer,"Invasive cancer (all sites combined), mortality",10233.0,37.808159,-85.241819,"{""type"":""Point"", ""coordinates"":[-85.241819,37.808159]}",very high
+2014,KY,Kentucky,Cancer,"Invasive cancer (all sites combined), mortality",191.3,37.808159,-85.241819,"{""type"":""Point"", ""coordinates"":[-85.241819,37.808159]}",middle
+2014,KY,Kentucky,Cancer,"Invasive cancer (all sites combined), mortality",10244.0,37.808159,-85.241819,"{""type"":""Point"", ""coordinates"":[-85.241819,37.808159]}",very high
+2015,KY,Kentucky,Cancer,"Invasive cancer (all sites combined), mortality",10186.0,37.808159,-85.241819,"{""type"":""Point"", ""coordinates"":[-85.241819,37.808159]}",very high
+2014,AL,Alabama,Cancer,"Invasive cancer (all sites combined), mortality",173.5,33.001471,-86.766233,"{""type"":""Point"", ""coordinates"":[-86.766233,33.001471]}",low
+2014,AL,Alabama,Cancer,"Invasive cancer (all sites combined), mortality",10420.0,33.001471,-86.766233,"{""type"":""Point"", ""coordinates"":[-86.766233,33.001471]}",very high
+2013,AL,Alabama,Cancer,"Invasive cancer (all sites combined), mortality",213.5,33.001471,-86.766233,"{""type"":""Point"", ""coordinates"":[-86.766233,33.001471]}",middle
+2015,AL,Alabama,Cancer,"Invasive cancer (all sites combined), mortality",170.0,33.001471,-86.766233,"{""type"":""Point"", ""coordinates"":[-86.766233,33.001471]}",low
+2014,AL,Alabama,Cancer,"Invasive cancer (all sites combined), mortality",214.2,33.001471,-86.766233,"{""type"":""Point"", ""coordinates"":[-86.766233,33.001471]}",middle
+2013,AL,Alabama,Cancer,"Invasive cancer (all sites combined), mortality",10359.0,33.001471,-86.766233,"{""type"":""Point"", ""coordinates"":[-86.766233,33.001471]}",very high
+2015,AL,Alabama,Cancer,"Invasive cancer (all sites combined), mortality",213.6,33.001471,-86.766233,"{""type"":""Point"", ""coordinates"":[-86.766233,33.001471]}",middle
+2013,AL,Alabama,Cancer,"Invasive cancer (all sites combined), mortality",175.8,33.001471,-86.766233,"{""type"":""Point"", ""coordinates"":[-86.766233,33.001471]}",low
+2015,AL,Alabama,Cancer,"Invasive cancer (all sites combined), mortality",10416.0,33.001471,-86.766233,"{""type"":""Point"", ""coordinates"":[-86.766233,33.001471]}",very high
+2013,CT,Connecticut,Cancer,"Invasive cancer (all sites combined), mortality",6642.0,41.494852,-72.874365,"{""type"":""Point"", ""coordinates"":[-72.874365,41.494852]}",very high
+2015,CT,Connecticut,Cancer,"Invasive cancer (all sites combined), mortality",138.5,41.494852,-72.874365,"{""type"":""Point"", ""coordinates"":[-72.874365,41.494852]}",very low
+2015,CT,Connecticut,Cancer,"Invasive cancer (all sites combined), mortality",184.3,41.494852,-72.874365,"{""type"":""Point"", ""coordinates"":[-72.874365,41.494852]}",middle
+2013,CT,Connecticut,Cancer,"Invasive cancer (all sites combined), mortality",143.8,41.494852,-72.874365,"{""type"":""Point"", ""coordinates"":[-72.874365,41.494852]}",very low
+2015,CT,Connecticut,Cancer,"Invasive cancer (all sites combined), mortality",6588.0,41.494852,-72.874365,"{""type"":""Point"", ""coordinates"":[-72.874365,41.494852]}",very high
+2014,CT,Connecticut,Cancer,"Invasive cancer (all sites combined), mortality",6613.0,41.494852,-72.874365,"{""type"":""Point"", ""coordinates"":[-72.874365,41.494852]}",very high
+2014,CT,Connecticut,Cancer,"Invasive cancer (all sites combined), mortality",141.2,41.494852,-72.874365,"{""type"":""Point"", ""coordinates"":[-72.874365,41.494852]}",very low
+2014,CT,Connecticut,Cancer,"Invasive cancer (all sites combined), mortality",184.7,41.494852,-72.874365,"{""type"":""Point"", ""coordinates"":[-72.874365,41.494852]}",middle
+2013,CT,Connecticut,Cancer,"Invasive cancer (all sites combined), mortality",185.2,41.494852,-72.874365,"{""type"":""Point"", ""coordinates"":[-72.874365,41.494852]}",middle
+2014,OH,Ohio,Cancer,"Invasive cancer (all sites combined), mortality",218.5,40.480854,-82.749366,"{""type"":""Point"", ""coordinates"":[-82.749366,40.480854]}",high
+2015,OH,Ohio,Cancer,"Invasive cancer (all sites combined), mortality",25376.0,40.480854,-82.749366,"{""type"":""Point"", ""coordinates"":[-82.749366,40.480854]}",very high
+2014,OH,Ohio,Cancer,"Invasive cancer (all sites combined), mortality",172.4,40.480854,-82.749366,"{""type"":""Point"", ""coordinates"":[-82.749366,40.480854]}",low
+2013,OH,Ohio,Cancer,"Invasive cancer (all sites combined), mortality",174.9,40.480854,-82.749366,"{""type"":""Point"", ""coordinates"":[-82.749366,40.480854]}",low
+2015,OH,Ohio,Cancer,"Invasive cancer (all sites combined), mortality",169.4,40.480854,-82.749366,"{""type"":""Point"", ""coordinates"":[-82.749366,40.480854]}",low
+2013,OH,Ohio,Cancer,"Invasive cancer (all sites combined), mortality",218.6,40.480854,-82.749366,"{""type"":""Point"", ""coordinates"":[-82.749366,40.480854]}",high
+2014,OH,Ohio,Cancer,"Invasive cancer (all sites combined), mortality",25429.0,40.480854,-82.749366,"{""type"":""Point"", ""coordinates"":[-82.749366,40.480854]}",very high
+2015,OH,Ohio,Cancer,"Invasive cancer (all sites combined), mortality",217.7,40.480854,-82.749366,"{""type"":""Point"", ""coordinates"":[-82.749366,40.480854]}",high
+2013,OH,Ohio,Cancer,"Invasive cancer (all sites combined), mortality",25393.0,40.480854,-82.749366,"{""type"":""Point"", ""coordinates"":[-82.749366,40.480854]}",very high
+2015,AR,Arkansas,Cancer,"Invasive cancer (all sites combined), mortality",218.9,35.080251,-92.576816,"{""type"":""Point"", ""coordinates"":[-92.576816,35.080251]}",high
+2013,AR,Arkansas,Cancer,"Invasive cancer (all sites combined), mortality",6618.0,35.080251,-92.576816,"{""type"":""Point"", ""coordinates"":[-92.576816,35.080251]}",very high
+2013,AR,Arkansas,Cancer,"Invasive cancer (all sites combined), mortality",222.1,35.080251,-92.576816,"{""type"":""Point"", ""coordinates"":[-92.576816,35.080251]}",high
+2014,AR,Arkansas,Cancer,"Invasive cancer (all sites combined), mortality",177.7,35.080251,-92.576816,"{""type"":""Point"", ""coordinates"":[-92.576816,35.080251]}",middle
+2014,AR,Arkansas,Cancer,"Invasive cancer (all sites combined), mortality",220.1,35.080251,-92.576816,"{""type"":""Point"", ""coordinates"":[-92.576816,35.080251]}",high
+2013,AR,Arkansas,Cancer,"Invasive cancer (all sites combined), mortality",182.0,35.080251,-92.576816,"{""type"":""Point"", ""coordinates"":[-92.576816,35.080251]}",middle
+2015,AR,Arkansas,Cancer,"Invasive cancer (all sites combined), mortality",174.2,35.080251,-92.576816,"{""type"":""Point"", ""coordinates"":[-92.576816,35.080251]}",low
+2015,AR,Arkansas,Cancer,"Invasive cancer (all sites combined), mortality",6566.0,35.080251,-92.576816,"{""type"":""Point"", ""coordinates"":[-92.576816,35.080251]}",very high
+2014,AR,Arkansas,Cancer,"Invasive cancer (all sites combined), mortality",6578.0,35.080251,-92.576816,"{""type"":""Point"", ""coordinates"":[-92.576816,35.080251]}",very high
+2015,NE,Nebraska,Cancer,"Invasive cancer (all sites combined), mortality",3498.0,41.183753,-97.403875,"{""type"":""Point"", ""coordinates"":[-97.403875,41.183753]}",high
+2015,NE,Nebraska,Cancer,"Invasive cancer (all sites combined), mortality",182.7,41.183753,-97.403875,"{""type"":""Point"", ""coordinates"":[-97.403875,41.183753]}",middle
+2013,NE,Nebraska,Cancer,"Invasive cancer (all sites combined), mortality",3482.0,41.183753,-97.403875,"{""type"":""Point"", ""coordinates"":[-97.403875,41.183753]}",high
+2014,NE,Nebraska,Cancer,"Invasive cancer (all sites combined), mortality",155.0,41.183753,-97.403875,"{""type"":""Point"", ""coordinates"":[-97.403875,41.183753]}",very low
+2013,NE,Nebraska,Cancer,"Invasive cancer (all sites combined), mortality",184.1,41.183753,-97.403875,"{""type"":""Point"", ""coordinates"":[-97.403875,41.183753]}",middle
+2015,NE,Nebraska,Cancer,"Invasive cancer (all sites combined), mortality",152.6,41.183753,-97.403875,"{""type"":""Point"", ""coordinates"":[-97.403875,41.183753]}",very low
+2014,NE,Nebraska,Cancer,"Invasive cancer (all sites combined), mortality",183.5,41.183753,-97.403875,"{""type"":""Point"", ""coordinates"":[-97.403875,41.183753]}",middle
+2013,NE,Nebraska,Cancer,"Invasive cancer (all sites combined), mortality",157.1,41.183753,-97.403875,"{""type"":""Point"", ""coordinates"":[-97.403875,41.183753]}",very low
+2014,NE,Nebraska,Cancer,"Invasive cancer (all sites combined), mortality",3494.0,41.183753,-97.403875,"{""type"":""Point"", ""coordinates"":[-97.403875,41.183753]}",high
+2014,OR,Oregon,Cancer,"Invasive cancer (all sites combined), mortality",8055.0,44.732273,-122.579524,"{""type"":""Point"", ""coordinates"":[-122.579524,44.732273]}",very high
+2013,OR,Oregon,Cancer,"Invasive cancer (all sites combined), mortality",198.2,44.732273,-122.579524,"{""type"":""Point"", ""coordinates"":[-122.579524,44.732273]}",middle
+2015,OR,Oregon,Cancer,"Invasive cancer (all sites combined), mortality",153.7,44.732273,-122.579524,"{""type"":""Point"", ""coordinates"":[-122.579524,44.732273]}",very low
+2014,OR,Oregon,Cancer,"Invasive cancer (all sites combined), mortality",157.1,44.732273,-122.579524,"{""type"":""Point"", ""coordinates"":[-122.579524,44.732273]}",very low
+2015,OR,Oregon,Cancer,"Invasive cancer (all sites combined), mortality",8099.0,44.732273,-122.579524,"{""type"":""Point"", ""coordinates"":[-122.579524,44.732273]}",very high
+2014,OR,Oregon,Cancer,"Invasive cancer (all sites combined), mortality",197.5,44.732273,-122.579524,"{""type"":""Point"", ""coordinates"":[-122.579524,44.732273]}",middle
+2015,OR,Oregon,Cancer,"Invasive cancer (all sites combined), mortality",196.1,44.732273,-122.579524,"{""type"":""Point"", ""coordinates"":[-122.579524,44.732273]}",middle
+2013,OR,Oregon,Cancer,"Invasive cancer (all sites combined), mortality",159.9,44.732273,-122.579524,"{""type"":""Point"", ""coordinates"":[-122.579524,44.732273]}",low
+2013,OR,Oregon,Cancer,"Invasive cancer (all sites combined), mortality",7983.0,44.732273,-122.579524,"{""type"":""Point"", ""coordinates"":[-122.579524,44.732273]}",very high
+2013,GA,Georgia,Cancer,"Invasive cancer (all sites combined), mortality",162.8,33.332208,-83.868887,"{""type"":""Point"", ""coordinates"":[-83.868887,33.332208]}",low
+2014,GA,Georgia,Cancer,"Invasive cancer (all sites combined), mortality",17069.0,33.332208,-83.868887,"{""type"":""Point"", ""coordinates"":[-83.868887,33.332208]}",very high
+2015,GA,Georgia,Cancer,"Invasive cancer (all sites combined), mortality",17283.0,33.332208,-83.868887,"{""type"":""Point"", ""coordinates"":[-83.868887,33.332208]}",very high
+2015,GA,Georgia,Cancer,"Invasive cancer (all sites combined), mortality",166.1,33.332208,-83.868887,"{""type"":""Point"", ""coordinates"":[-83.868887,33.332208]}",low
+2013,GA,Georgia,Cancer,"Invasive cancer (all sites combined), mortality",16873.0,33.332208,-83.868887,"{""type"":""Point"", ""coordinates"":[-83.868887,33.332208]}",very high
+2014,GA,Georgia,Cancer,"Invasive cancer (all sites combined), mortality",159.7,33.332208,-83.868887,"{""type"":""Point"", ""coordinates"":[-83.868887,33.332208]}",low
+2015,GA,Georgia,Cancer,"Invasive cancer (all sites combined), mortality",156.7,33.332208,-83.868887,"{""type"":""Point"", ""coordinates"":[-83.868887,33.332208]}",very low
+2013,GA,Georgia,Cancer,"Invasive cancer (all sites combined), mortality",165.6,33.332208,-83.868887,"{""type"":""Point"", ""coordinates"":[-83.868887,33.332208]}",low
+2014,GA,Georgia,Cancer,"Invasive cancer (all sites combined), mortality",165.8,33.332208,-83.868887,"{""type"":""Point"", ""coordinates"":[-83.868887,33.332208]}",low
+2013,AZ,Arizona,Cancer,"Invasive cancer (all sites combined), mortality",171.1,33.373506,-111.828711,"{""type"":""Point"", ""coordinates"":[-111.828711,33.373506]}",low
+2013,AZ,Arizona,Cancer,"Invasive cancer (all sites combined), mortality",141.1,33.373506,-111.828711,"{""type"":""Point"", ""coordinates"":[-111.828711,33.373506]}",very low
+2014,AZ,Arizona,Cancer,"Invasive cancer (all sites combined), mortality",138.0,33.373506,-111.828711,"{""type"":""Point"", ""coordinates"":[-111.828711,33.373506]}",very low
+2013,AZ,Arizona,Cancer,"Invasive cancer (all sites combined), mortality",11692.0,33.373506,-111.828711,"{""type"":""Point"", ""coordinates"":[-111.828711,33.373506]}",very high
+2014,AZ,Arizona,Cancer,"Invasive cancer (all sites combined), mortality",170.7,33.373506,-111.828711,"{""type"":""Point"", ""coordinates"":[-111.828711,33.373506]}",low
+2015,AZ,Arizona,Cancer,"Invasive cancer (all sites combined), mortality",171.0,33.373506,-111.828711,"{""type"":""Point"", ""coordinates"":[-111.828711,33.373506]}",low
+2015,AZ,Arizona,Cancer,"Invasive cancer (all sites combined), mortality",12055.0,33.373506,-111.828711,"{""type"":""Point"", ""coordinates"":[-111.828711,33.373506]}",very high
+2014,AZ,Arizona,Cancer,"Invasive cancer (all sites combined), mortality",11846.0,33.373506,-111.828711,"{""type"":""Point"", ""coordinates"":[-111.828711,33.373506]}",very high
+2015,AZ,Arizona,Cancer,"Invasive cancer (all sites combined), mortality",135.5,33.373506,-111.828711,"{""type"":""Point"", ""coordinates"":[-111.828711,33.373506]}",very low
+2013,OK,Oklahoma,Cancer,"Invasive cancer (all sites combined), mortality",208.1,35.59794,-96.834653,"{""type"":""Point"", ""coordinates"":[-96.834653,35.59794]}",middle
+2015,OK,Oklahoma,Cancer,"Invasive cancer (all sites combined), mortality",178.0,35.59794,-96.834653,"{""type"":""Point"", ""coordinates"":[-96.834653,35.59794]}",middle
+2013,OK,Oklahoma,Cancer,"Invasive cancer (all sites combined), mortality",181.0,35.59794,-96.834653,"{""type"":""Point"", ""coordinates"":[-96.834653,35.59794]}",middle
+2014,OK,Oklahoma,Cancer,"Invasive cancer (all sites combined), mortality",8191.0,35.59794,-96.834653,"{""type"":""Point"", ""coordinates"":[-96.834653,35.59794]}",very high
+2015,OK,Oklahoma,Cancer,"Invasive cancer (all sites combined), mortality",8266.0,35.59794,-96.834653,"{""type"":""Point"", ""coordinates"":[-96.834653,35.59794]}",very high
+2014,OK,Oklahoma,Cancer,"Invasive cancer (all sites combined), mortality",179.5,35.59794,-96.834653,"{""type"":""Point"", ""coordinates"":[-96.834653,35.59794]}",middle
+2015,OK,Oklahoma,Cancer,"Invasive cancer (all sites combined), mortality",210.2,35.59794,-96.834653,"{""type"":""Point"", ""coordinates"":[-96.834653,35.59794]}",middle
+2013,OK,Oklahoma,Cancer,"Invasive cancer (all sites combined), mortality",8114.0,35.59794,-96.834653,"{""type"":""Point"", ""coordinates"":[-96.834653,35.59794]}",very high
+2014,OK,Oklahoma,Cancer,"Invasive cancer (all sites combined), mortality",209.1,35.59794,-96.834653,"{""type"":""Point"", ""coordinates"":[-96.834653,35.59794]}",middle
+2015,NJ,New Jersey,Cancer,"Invasive cancer (all sites combined), mortality",16124.0,40.438458,-74.428055,"{""type"":""Point"", ""coordinates"":[-74.428055,40.438458]}",very high
+2014,NJ,New Jersey,Cancer,"Invasive cancer (all sites combined), mortality",148.3,40.438458,-74.428055,"{""type"":""Point"", ""coordinates"":[-74.428055,40.438458]}",very low
+2013,NJ,New Jersey,Cancer,"Invasive cancer (all sites combined), mortality",16363.0,40.438458,-74.428055,"{""type"":""Point"", ""coordinates"":[-74.428055,40.438458]}",very high
+2015,NJ,New Jersey,Cancer,"Invasive cancer (all sites combined), mortality",181.6,40.438458,-74.428055,"{""type"":""Point"", ""coordinates"":[-74.428055,40.438458]}",middle
+2014,NJ,New Jersey,Cancer,"Invasive cancer (all sites combined), mortality",183.7,40.438458,-74.428055,"{""type"":""Point"", ""coordinates"":[-74.428055,40.438458]}",middle
+2013,NJ,New Jersey,Cancer,"Invasive cancer (all sites combined), mortality",184.5,40.438458,-74.428055,"{""type"":""Point"", ""coordinates"":[-74.428055,40.438458]}",middle
+2015,NJ,New Jersey,Cancer,"Invasive cancer (all sites combined), mortality",144.4,40.438458,-74.428055,"{""type"":""Point"", ""coordinates"":[-74.428055,40.438458]}",very low
+2014,NJ,New Jersey,Cancer,"Invasive cancer (all sites combined), mortality",16302.0,40.438458,-74.428055,"{""type"":""Point"", ""coordinates"":[-74.428055,40.438458]}",very high
+2013,NJ,New Jersey,Cancer,"Invasive cancer (all sites combined), mortality",151.3,40.438458,-74.428055,"{""type"":""Point"", ""coordinates"":[-74.428055,40.438458]}",very low
+2013,WY,Wyoming,Cancer,"Invasive cancer (all sites combined), mortality",942.0,42.675762,-107.008835,"{""type"":""Point"", ""coordinates"":[-107.008835,42.675762]}",high
+2015,WY,Wyoming,Cancer,"Invasive cancer (all sites combined), mortality",138.9,42.675762,-107.008835,"{""type"":""Point"", ""coordinates"":[-107.008835,42.675762]}",very low
+2014,WY,Wyoming,Cancer,"Invasive cancer (all sites combined), mortality",952.0,42.675762,-107.008835,"{""type"":""Point"", ""coordinates"":[-107.008835,42.675762]}",high
+2015,WY,Wyoming,Cancer,"Invasive cancer (all sites combined), mortality",167.1,42.675762,-107.008835,"{""type"":""Point"", ""coordinates"":[-107.008835,42.675762]}",low
+2013,WY,Wyoming,Cancer,"Invasive cancer (all sites combined), mortality",140.9,42.675762,-107.008835,"{""type"":""Point"", ""coordinates"":[-107.008835,42.675762]}",very low
+2014,WY,Wyoming,Cancer,"Invasive cancer (all sites combined), mortality",163.6,42.675762,-107.008835,"{""type"":""Point"", ""coordinates"":[-107.008835,42.675762]}",low
+2015,WY,Wyoming,Cancer,"Invasive cancer (all sites combined), mortality",971.0,42.675762,-107.008835,"{""type"":""Point"", ""coordinates"":[-107.008835,42.675762]}",high
+2013,WY,Wyoming,Cancer,"Invasive cancer (all sites combined), mortality",161.6,42.675762,-107.008835,"{""type"":""Point"", ""coordinates"":[-107.008835,42.675762]}",low
+2014,WY,Wyoming,Cancer,"Invasive cancer (all sites combined), mortality",139.3,42.675762,-107.008835,"{""type"":""Point"", ""coordinates"":[-107.008835,42.675762]}",very low
+2015,FL,Florida,Cancer,"Invasive cancer (all sites combined), mortality",44857.0,27.79585,-81.634622,"{""type"":""Point"", ""coordinates"":[-81.634622,27.79585]}",very high
+2015,FL,Florida,Cancer,"Invasive cancer (all sites combined), mortality",144.5,27.79585,-81.634622,"{""type"":""Point"", ""coordinates"":[-81.634622,27.79585]}",very low
+2014,FL,Florida,Cancer,"Invasive cancer (all sites combined), mortality",147.4,27.79585,-81.634622,"{""type"":""Point"", ""coordinates"":[-81.634622,27.79585]}",very low
+2014,FL,Florida,Cancer,"Invasive cancer (all sites combined), mortality",44383.0,27.79585,-81.634622,"{""type"":""Point"", ""coordinates"":[-81.634622,27.79585]}",very high
+2013,FL,Florida,Cancer,"Invasive cancer (all sites combined), mortality",150.3,27.79585,-81.634622,"{""type"":""Point"", ""coordinates"":[-81.634622,27.79585]}",very low
+2013,FL,Florida,Cancer,"Invasive cancer (all sites combined), mortality",216.8,27.79585,-81.634622,"{""type"":""Point"", ""coordinates"":[-81.634622,27.79585]}",high
+2014,FL,Florida,Cancer,"Invasive cancer (all sites combined), mortality",215.7,27.79585,-81.634622,"{""type"":""Point"", ""coordinates"":[-81.634622,27.79585]}",high
+2015,FL,Florida,Cancer,"Invasive cancer (all sites combined), mortality",214.6,27.79585,-81.634622,"{""type"":""Point"", ""coordinates"":[-81.634622,27.79585]}",high
+2013,FL,Florida,Cancer,"Invasive cancer (all sites combined), mortality",43874.0,27.79585,-81.634622,"{""type"":""Point"", ""coordinates"":[-81.634622,27.79585]}",very high
+2013,ME,Maine,Cancer,"Invasive cancer (all sites combined), mortality",172.1,44.313614,-69.719931,"{""type"":""Point"", ""coordinates"":[-69.719931,44.313614]}",low
+2014,ME,Maine,Cancer,"Invasive cancer (all sites combined), mortality",169.3,44.313614,-69.719931,"{""type"":""Point"", ""coordinates"":[-69.719931,44.313614]}",low
+2015,ME,Maine,Cancer,"Invasive cancer (all sites combined), mortality",3350.0,44.313614,-69.719931,"{""type"":""Point"", ""coordinates"":[-69.719931,44.313614]}",high
+2014,ME,Maine,Cancer,"Invasive cancer (all sites combined), mortality",248.3,44.313614,-69.719931,"{""type"":""Point"", ""coordinates"":[-69.719931,44.313614]}",high
+2015,ME,Maine,Cancer,"Invasive cancer (all sites combined), mortality",250.9,44.313614,-69.719931,"{""type"":""Point"", ""coordinates"":[-69.719931,44.313614]}",high
+2013,ME,Maine,Cancer,"Invasive cancer (all sites combined), mortality",3300.0,44.313614,-69.719931,"{""type"":""Point"", ""coordinates"":[-69.719931,44.313614]}",high
+2015,ME,Maine,Cancer,"Invasive cancer (all sites combined), mortality",168.0,44.313614,-69.719931,"{""type"":""Point"", ""coordinates"":[-69.719931,44.313614]}",low
+2014,ME,Maine,Cancer,"Invasive cancer (all sites combined), mortality",3310.0,44.313614,-69.719931,"{""type"":""Point"", ""coordinates"":[-69.719931,44.313614]}",high
+2013,ME,Maine,Cancer,"Invasive cancer (all sites combined), mortality",248.0,44.313614,-69.719931,"{""type"":""Point"", ""coordinates"":[-69.719931,44.313614]}",high
+2013,NH,New Hampshire,Cancer,"Invasive cancer (all sites combined), mortality",204.7,43.153046,-71.463342,"{""type"":""Point"", ""coordinates"":[-71.463342,43.153046]}",middle
+2015,NH,New Hampshire,Cancer,"Invasive cancer (all sites combined), mortality",154.0,43.153046,-71.463342,"{""type"":""Point"", ""coordinates"":[-71.463342,43.153046]}",very low
+2013,NH,New Hampshire,Cancer,"Invasive cancer (all sites combined), mortality",2738.0,43.153046,-71.463342,"{""type"":""Point"", ""coordinates"":[-71.463342,43.153046]}",high
+2015,NH,New Hampshire,Cancer,"Invasive cancer (all sites combined), mortality",206.8,43.153046,-71.463342,"{""type"":""Point"", ""coordinates"":[-71.463342,43.153046]}",middle
+2014,NH,New Hampshire,Cancer,"Invasive cancer (all sites combined), mortality",2763.0,43.153046,-71.463342,"{""type"":""Point"", ""coordinates"":[-71.463342,43.153046]}",high
+2015,NH,New Hampshire,Cancer,"Invasive cancer (all sites combined), mortality",2788.0,43.153046,-71.463342,"{""type"":""Point"", ""coordinates"":[-71.463342,43.153046]}",high
+2014,NH,New Hampshire,Cancer,"Invasive cancer (all sites combined), mortality",205.8,43.153046,-71.463342,"{""type"":""Point"", ""coordinates"":[-71.463342,43.153046]}",middle
+2013,NH,New Hampshire,Cancer,"Invasive cancer (all sites combined), mortality",159.4,43.153046,-71.463342,"{""type"":""Point"", ""coordinates"":[-71.463342,43.153046]}",low
+2014,NH,New Hampshire,Cancer,"Invasive cancer (all sites combined), mortality",156.5,43.153046,-71.463342,"{""type"":""Point"", ""coordinates"":[-71.463342,43.153046]}",very low
+2015,VA,Virginia,Cancer,"Invasive cancer (all sites combined), mortality",15046.0,37.750345,-77.835857,"{""type"":""Point"", ""coordinates"":[-77.835857,37.750345]}",very high
+2014,VA,Virginia,Cancer,"Invasive cancer (all sites combined), mortality",178.2,37.750345,-77.835857,"{""type"":""Point"", ""coordinates"":[-77.835857,37.750345]}",middle
+2013,VA,Virginia,Cancer,"Invasive cancer (all sites combined), mortality",177.5,37.750345,-77.835857,"{""type"":""Point"", ""coordinates"":[-77.835857,37.750345]}",low
+2013,VA,Virginia,Cancer,"Invasive cancer (all sites combined), mortality",14840.0,37.750345,-77.835857,"{""type"":""Point"", ""coordinates"":[-77.835857,37.750345]}",very high
+2014,VA,Virginia,Cancer,"Invasive cancer (all sites combined), mortality",155.7,37.750345,-77.835857,"{""type"":""Point"", ""coordinates"":[-77.835857,37.750345]}",very low
+2015,VA,Virginia,Cancer,"Invasive cancer (all sites combined), mortality",152.4,37.750345,-77.835857,"{""type"":""Point"", ""coordinates"":[-77.835857,37.750345]}",very low
+2015,VA,Virginia,Cancer,"Invasive cancer (all sites combined), mortality",178.0,37.750345,-77.835857,"{""type"":""Point"", ""coordinates"":[-77.835857,37.750345]}",middle
+2013,VA,Virginia,Cancer,"Invasive cancer (all sites combined), mortality",158.3,37.750345,-77.835857,"{""type"":""Point"", ""coordinates"":[-77.835857,37.750345]}",low
+2014,VA,Virginia,Cancer,"Invasive cancer (all sites combined), mortality",14987.0,37.750345,-77.835857,"{""type"":""Point"", ""coordinates"":[-77.835857,37.750345]}",very high
+2013,MA,Massachusetts,Cancer,"Invasive cancer (all sites combined), mortality",188.6,42.271831,-71.363628,"{""type"":""Point"", ""coordinates"":[-71.363628,42.271831]}",middle
+2015,MA,Massachusetts,Cancer,"Invasive cancer (all sites combined), mortality",146.9,42.271831,-71.363628,"{""type"":""Point"", ""coordinates"":[-71.363628,42.271831]}",very low
+2014,MA,Massachusetts,Cancer,"Invasive cancer (all sites combined), mortality",12765.0,42.271831,-71.363628,"{""type"":""Point"", ""coordinates"":[-71.363628,42.271831]}",very high
+2014,MA,Massachusetts,Cancer,"Invasive cancer (all sites combined), mortality",150.0,42.271831,-71.363628,"{""type"":""Point"", ""coordinates"":[-71.363628,42.271831]}",very low
+2015,MA,Massachusetts,Cancer,"Invasive cancer (all sites combined), mortality",185.7,42.271831,-71.363628,"{""type"":""Point"", ""coordinates"":[-71.363628,42.271831]}",middle
+2013,MA,Massachusetts,Cancer,"Invasive cancer (all sites combined), mortality",12809.0,42.271831,-71.363628,"{""type"":""Point"", ""coordinates"":[-71.363628,42.271831]}",very high
+2015,MA,Massachusetts,Cancer,"Invasive cancer (all sites combined), mortality",12724.0,42.271831,-71.363628,"{""type"":""Point"", ""coordinates"":[-71.363628,42.271831]}",very high
+2013,MA,Massachusetts,Cancer,"Invasive cancer (all sites combined), mortality",153.3,42.271831,-71.363628,"{""type"":""Point"", ""coordinates"":[-71.363628,42.271831]}",very low
+2014,MA,Massachusetts,Cancer,"Invasive cancer (all sites combined), mortality",187.0,42.271831,-71.363628,"{""type"":""Point"", ""coordinates"":[-71.363628,42.271831]}",middle
+2014,DC,District of Columbia,Cancer,"Invasive cancer (all sites combined), mortality",1067.0,38.910092,-77.014001,"{""type"":""Point"", ""coordinates"":[-77.014001,38.910092]}",high
+2015,DC,District of Columbia,Cancer,"Invasive cancer (all sites combined), mortality",151.4,38.910092,-77.014001,"{""type"":""Point"", ""coordinates"":[-77.014001,38.910092]}",very low
+2015,DC,District of Columbia,Cancer,"Invasive cancer (all sites combined), mortality",1048.0,38.910092,-77.014001,"{""type"":""Point"", ""coordinates"":[-77.014001,38.910092]}",high
+2015,DC,District of Columbia,Cancer,"Invasive cancer (all sites combined), mortality",155.0,38.910092,-77.014001,"{""type"":""Point"", ""coordinates"":[-77.014001,38.910092]}",very low
+2013,DC,District of Columbia,Cancer,"Invasive cancer (all sites combined), mortality",159.0,38.910092,-77.014001,"{""type"":""Point"", ""coordinates"":[-77.014001,38.910092]}",low
+2013,DC,District of Columbia,Cancer,"Invasive cancer (all sites combined), mortality",1072.0,38.910092,-77.014001,"{""type"":""Point"", ""coordinates"":[-77.014001,38.910092]}",high
+2013,DC,District of Columbia,Cancer,"Invasive cancer (all sites combined), mortality",164.2,38.910092,-77.014001,"{""type"":""Point"", ""coordinates"":[-77.014001,38.910092]}",low
+2014,DC,District of Columbia,Cancer,"Invasive cancer (all sites combined), mortality",160.3,38.910092,-77.014001,"{""type"":""Point"", ""coordinates"":[-77.014001,38.910092]}",low
+2014,DC,District of Columbia,Cancer,"Invasive cancer (all sites combined), mortality",155.9,38.910092,-77.014001,"{""type"":""Point"", ""coordinates"":[-77.014001,38.910092]}",very low
+2014,UT,Utah,Cancer,"Invasive cancer (all sites combined), mortality",103.1,40.438987,-111.90016,"{""type"":""Point"", ""coordinates"":[-111.90016,40.438987]}",very low
+2013,UT,Utah,Cancer,"Invasive cancer (all sites combined), mortality",3078.0,40.438987,-111.90016,"{""type"":""Point"", ""coordinates"":[-111.90016,40.438987]}",high
+2014,UT,Utah,Cancer,"Invasive cancer (all sites combined), mortality",3136.0,40.438987,-111.90016,"{""type"":""Point"", ""coordinates"":[-111.90016,40.438987]}",high
+2015,UT,Utah,Cancer,"Invasive cancer (all sites combined), mortality",3186.0,40.438987,-111.90016,"{""type"":""Point"", ""coordinates"":[-111.90016,40.438987]}",high
+2013,UT,Utah,Cancer,"Invasive cancer (all sites combined), mortality",102.9,40.438987,-111.90016,"{""type"":""Point"", ""coordinates"":[-111.90016,40.438987]}",very low
+2015,UT,Utah,Cancer,"Invasive cancer (all sites combined), mortality",102.9,40.438987,-111.90016,"{""type"":""Point"", ""coordinates"":[-111.90016,40.438987]}",very low
+2013,UT,Utah,Cancer,"Invasive cancer (all sites combined), mortality",125.6,40.438987,-111.90016,"{""type"":""Point"", ""coordinates"":[-111.90016,40.438987]}",very low
+2014,UT,Utah,Cancer,"Invasive cancer (all sites combined), mortality",124.0,40.438987,-111.90016,"{""type"":""Point"", ""coordinates"":[-111.90016,40.438987]}",very low
+2015,UT,Utah,Cancer,"Invasive cancer (all sites combined), mortality",121.8,40.438987,-111.90016,"{""type"":""Point"", ""coordinates"":[-111.90016,40.438987]}",very low
+2015,HI,Hawaii,Cancer,"Invasive cancer (all sites combined), mortality",171.9,21.146768,-157.524452,"{""type"":""Point"", ""coordinates"":[-157.524452,21.146768]}",low
+2015,HI,Hawaii,Cancer,"Invasive cancer (all sites combined), mortality",2445.0,21.146768,-157.524452,"{""type"":""Point"", ""coordinates"":[-157.524452,21.146768]}",high
+2014,HI,Hawaii,Cancer,"Invasive cancer (all sites combined), mortality",2443.0,21.146768,-157.524452,"{""type"":""Point"", ""coordinates"":[-157.524452,21.146768]}",high
+2013,HI,Hawaii,Cancer,"Invasive cancer (all sites combined), mortality",132.2,21.146768,-157.524452,"{""type"":""Point"", ""coordinates"":[-157.524452,21.146768]}",very low
+2014,HI,Hawaii,Cancer,"Invasive cancer (all sites combined), mortality",171.8,21.146768,-157.524452,"{""type"":""Point"", ""coordinates"":[-157.524452,21.146768]}",low
+2013,HI,Hawaii,Cancer,"Invasive cancer (all sites combined), mortality",171.1,21.146768,-157.524452,"{""type"":""Point"", ""coordinates"":[-157.524452,21.146768]}",low
+2015,HI,Hawaii,Cancer,"Invasive cancer (all sites combined), mortality",127.8,21.146768,-157.524452,"{""type"":""Point"", ""coordinates"":[-157.524452,21.146768]}",very low
+2013,HI,Hawaii,Cancer,"Invasive cancer (all sites combined), mortality",2429.0,21.146768,-157.524452,"{""type"":""Point"", ""coordinates"":[-157.524452,21.146768]}",high
+2014,HI,Hawaii,Cancer,"Invasive cancer (all sites combined), mortality",130.0,21.146768,-157.524452,"{""type"":""Point"", ""coordinates"":[-157.524452,21.146768]}",very low
+2013,CA,California,Cancer,"Invasive cancer (all sites combined), mortality",58956.0,35.458606,-119.355165,"{""type"":""Point"", ""coordinates"":[-119.355165,35.458606]}",very high
+2013,CA,California,Cancer,"Invasive cancer (all sites combined), mortality",143.0,35.458606,-119.355165,"{""type"":""Point"", ""coordinates"":[-119.355165,35.458606]}",very low
+2015,CA,California,Cancer,"Invasive cancer (all sites combined), mortality",59626.0,35.458606,-119.355165,"{""type"":""Point"", ""coordinates"":[-119.355165,35.458606]}",very high
+2015,CA,California,Cancer,"Invasive cancer (all sites combined), mortality",137.7,35.458606,-119.355165,"{""type"":""Point"", ""coordinates"":[-119.355165,35.458606]}",very low
+2014,CA,California,Cancer,"Invasive cancer (all sites combined), mortality",151.9,35.458606,-119.355165,"{""type"":""Point"", ""coordinates"":[-119.355165,35.458606]}",very low
+2015,CA,California,Cancer,"Invasive cancer (all sites combined), mortality",151.8,35.458606,-119.355165,"{""type"":""Point"", ""coordinates"":[-119.355165,35.458606]}",very low
+2014,CA,California,Cancer,"Invasive cancer (all sites combined), mortality",59406.0,35.458606,-119.355165,"{""type"":""Point"", ""coordinates"":[-119.355165,35.458606]}",very high
+2013,CA,California,Cancer,"Invasive cancer (all sites combined), mortality",151.7,35.458606,-119.355165,"{""type"":""Point"", ""coordinates"":[-119.355165,35.458606]}",very low
+2014,CA,California,Cancer,"Invasive cancer (all sites combined), mortality",140.5,35.458606,-119.355165,"{""type"":""Point"", ""coordinates"":[-119.355165,35.458606]}",very low
+2015,SD,South Dakota,Cancer,"Invasive cancer (all sites combined), mortality",154.6,44.047502,-99.043799,"{""type"":""Point"", ""coordinates"":[-99.043799,44.047502]}",very low
+2015,SD,South Dakota,Cancer,"Invasive cancer (all sites combined), mortality",193.4,44.047502,-99.043799,"{""type"":""Point"", ""coordinates"":[-99.043799,44.047502]}",middle
+2013,SD,South Dakota,Cancer,"Invasive cancer (all sites combined), mortality",1665.0,44.047502,-99.043799,"{""type"":""Point"", ""coordinates"":[-99.043799,44.047502]}",high
+2013,SD,South Dakota,Cancer,"Invasive cancer (all sites combined), mortality",159.4,44.047502,-99.043799,"{""type"":""Point"", ""coordinates"":[-99.043799,44.047502]}",low
+2014,SD,South Dakota,Cancer,"Invasive cancer (all sites combined), mortality",1676.0,44.047502,-99.043799,"{""type"":""Point"", ""coordinates"":[-99.043799,44.047502]}",high
+2015,SD,South Dakota,Cancer,"Invasive cancer (all sites combined), mortality",1684.0,44.047502,-99.043799,"{""type"":""Point"", ""coordinates"":[-99.043799,44.047502]}",high
+2013,SD,South Dakota,Cancer,"Invasive cancer (all sites combined), mortality",194.4,44.047502,-99.043799,"{""type"":""Point"", ""coordinates"":[-99.043799,44.047502]}",middle
+2014,SD,South Dakota,Cancer,"Invasive cancer (all sites combined), mortality",194.1,44.047502,-99.043799,"{""type"":""Point"", ""coordinates"":[-99.043799,44.047502]}",middle
+2014,SD,South Dakota,Cancer,"Invasive cancer (all sites combined), mortality",157.1,44.047502,-99.043799,"{""type"":""Point"", ""coordinates"":[-99.043799,44.047502]}",very low
