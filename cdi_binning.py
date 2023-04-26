@@ -50,7 +50,7 @@ cdi = cdi[[
     'Category'
 ]]
 
-grouped = cdi.groupby(by=['LocationAbbr', 'Centroid'])['Topic'].apply(lambda x: list(np.unique(x)))
+grouped = cdi.groupby(by=['Year', 'LocationAbbr', 'Centroid'])['Topic'].apply(lambda x: list(np.unique(x)))
 grouped.to_frame().to_csv('processed_csvs/cdi_datasets.csv')
 
 #%%
