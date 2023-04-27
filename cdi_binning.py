@@ -51,6 +51,6 @@ cdi = cdi[[
 ]]
 
 grouped = cdi.groupby(by=['Year', 'LocationAbbr', 'Centroid'])['Topic'].apply(lambda x: list(np.unique(x)))
-grouped.to_frame().to_csv('processed_csvs/cdi_datasets.csv')
+grouped.to_frame().to_pickle('processed_data/cdi_datasets.pkl')
 
 #%%
